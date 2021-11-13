@@ -15,10 +15,32 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Router
 ```
-npm run lint
+npm install vue-router --save
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### VUEX
+```
+npm install vuex --save
+```
+
+
+### VUE-carousel
+```
+npm install -S vue-carousel
+```
+
+      
+### Stack:    
+:green_circle: JS (ECMA6)  
+:green_circle: HTML5        
+:green_circle: SCSS   
+:green_circle: VUE      
+:green_circle: VUEX      
+:green_circle: VUE-router      
+:green_circle: VUE-carousel   
+         
+### App gif:       
+![3QtkZeCcWF](https://user-images.githubusercontent.com/86303341/141656032-be10d6b2-d1dc-45a9-887c-e13b3055100b.gif)
+
